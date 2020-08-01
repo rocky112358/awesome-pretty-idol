@@ -1,6 +1,6 @@
 # awesome-pretty-idol
 
-## 노션 (홈페이지)
+## 홈페이지 (Notion)
 https://www.notion.so/API-6c641706b97c4e19ad9e153ebc2038dc
 
 ## YouTube Channel
